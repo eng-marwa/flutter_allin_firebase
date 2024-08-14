@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622922725017",
+    "project_id": "group3-fire",
+    "storage_bucket": "group3-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622922725017:android:dd99f630099f32115baa08",
+        "android_client_info": {
+          "package_name": "com.example.group3_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKO33Hp-9Cw4W8T8VZEWxzbuYDYnGOSqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
